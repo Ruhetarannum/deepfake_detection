@@ -1,0 +1,10 @@
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\images\fake_bright_up.jpg,image,1
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\images\fake_flip.jpg,image,1
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\images\real_bright_up.jpg,image,0
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\images\real_flip.jpg,image,0
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\audio\fake_pitch_up.wav,audio,1
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\audio\fake_noise.wav,audio,1
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\audio\real_pitch_up.wav,audio,0
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\audio\real_noise.wav,audio,0
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\videos\fake_bright.mp4,video,1
+C:\Users\ruhet\Downloads\DeepFake Audio and Video-20251109T104526Z-1-001\DeepFake Audio and Video\deepfake-det\deepfake-det\tests\generated\videos\real_bright.mp4,video,0

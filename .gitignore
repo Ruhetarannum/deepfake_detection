@@ -1,0 +1,23 @@
+# Virtual environment
+env/
+venv/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Model files (large)
+Models/*.keras
+Models/*.h5
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs (if any)
+*.log
+
