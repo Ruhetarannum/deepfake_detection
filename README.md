@@ -1,6 +1,6 @@
-# DeFake AI: A Multimodal Deepfake Detection System
+# DeFake AI: A Machine Learning Based Approach to Audio-Video Deepfake Detection
 
-**An AI-powered web application for detecting deepfake content across images, videos, and audio using deep learning techniques.**
+**An ML-powered web application for detecting deepfake content across images, videos, and audio using deep learning techniques.**
 
 ---
 
@@ -105,7 +105,7 @@ Each detection pipeline operates independently, allowing for scalable and mainta
 
 ## 📊 Dataset Information
 
-The models were trained on publicly available deepfake detection datasets:
+The models were trained on publicly available deepfake detection datasets(Kaggle):
 
 - **Image/Video Datasets**: FaceForensics++, Celeb-DF, DFDC (Deepfake Detection Challenge)
 - **Audio Datasets**: ASVspoof, FoR (Fake-or-Real) dataset
@@ -141,12 +141,10 @@ Detailed performance metrics, including accuracy, precision, recall, and F1-scor
 
 This project was developed as a collaborative group effort:
 
-- **Member 1**: [Name] - Model Development & Training
-- **Member 2**: [Name] - Web Application & Integration
-- **Member 3**: [Name] - Data Preprocessing & Testing
-- **Member 4**: [Name] - Documentation & Deployment
-
-*(Update with actual team member names and roles)*
+- **Member 1**: [[@Ruhetarannum](https://github.com/Ruhetarannum)]
+- **Member 2**: [[@sadiyatahseen555](https://github.com/sadiyatahseen555)]
+- **Member 3**: [[@AmreenNeema](https://github.com/AmreenNeema)]
+- **Member 4**: [[@github-username1](https://github.com/github-username1)]
 
 ---
 
@@ -161,8 +159,7 @@ This project was developed as a collaborative group effort:
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/your-username/DEEPFAKE-DET.git
-   cd DEEPFAKE-DET
+   git clone https://github.com/Ruhetarannum/deepfake_detection.git
 ```
 
 2. **Create and activate virtual environment**
@@ -258,7 +255,6 @@ For academic citations or commercial usage inquiries, please contact the project
 ## 🤝 Acknowledgments
 
 Special thanks to the open-source community and researchers whose datasets, pre-trained models, and libraries made this project possible.
+And also the successful completion of DeFake AI would not have been possible without the invaluable guidance and support from various individuals. Special appreciation is extended to Mohammed Shafiulla for mentorship and insightful suggestions that significantly contributed to this research. Gratitude is also expressed to R. N. Kulkarni, Head of the Department of Computer Science and Engineering, for coordination and valuable insights throughout the project development.
 
 ---
-
-**⭐ If you find this project useful, please consider giving it a star on GitHub!**
